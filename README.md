@@ -49,6 +49,9 @@ The study successfully traced hereditary factors related to hearing loss and dem
 - Validate the model with larger and more diverse datasets.
 - Collaborate with medical professionals to integrate findings into clinical practices.
 
+
 **References:**
 
 - This project is developed as an extension of concepts learned in the DS210: Programming for Data Science, aiming to apply theoretical knowledge to a practical problem in genetic hearing loss analysis.
+
+- 
