@@ -1,6 +1,6 @@
 # Analysis of Genetic Hearing Loss Using Decision Tree Modeling
 ## **Duration**
-  -June - August 2024*
+  - June - August 2024*
 ## **Dataset**
 
   - The dataset used in this project is from Kaggle. You can find it [here]( https://www.kaggle.com/datasets/saurabhshahane/genetic-diagnosis-using-machine-learning).
